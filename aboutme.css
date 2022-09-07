@@ -1,0 +1,35 @@
+img {
+    width: 50%;
+    height: 50%;
+}
+
+body {
+    background: blueviolet;
+}
+
+p a {
+    color: white;
+}
+
+a {
+    background: orange;
+}
+
+ol {
+    font-weight: bold;
+}
+
+.topthree {
+    color: antiquewhite;
+}
+
+#listofmmaorg {
+    background-color: yellow;
+}
+
+.favourite_food {
+    background-image: url(https://media-cdn.tripadvisor.com/media/photo-s/1c/36/a4/1c/the-pizza-pasta-kitchen.jpg);
+    background-size: 50px auto;
+    color: aqua;
+}
+
